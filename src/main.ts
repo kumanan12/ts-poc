@@ -1,7 +1,7 @@
 import { add } from "./add.js";
 import { isTeenAger } from "./add.js";
 import { Person } from "./add.js";
-let result = add(1,"2");
+let result = add(1,2);
 let isTeen = isTeenAger(19);
 
 let dhivakar: Person = {
